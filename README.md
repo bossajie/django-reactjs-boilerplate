@@ -9,4 +9,5 @@ References:
 https://github.com/owais/django-webpack-loader
 </br>
 https://github.com/naomigrace/django-react-webpack
+</br>
 https://github.com/mbrochh/django-reactjs-boilerplate
