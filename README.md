@@ -18,14 +18,19 @@ environment\scripts\activate
 pip install -r requirements.txt
 npm install
 python manage.py runserver
+
 # open another terminal
 node server.js
 ```
 
 Read more on this blog post:
+<br/>
 http://owaislone.org/blog/webpack-plus-reactjs-and-django/
-
+<br/>
 References:
+<br/>
 https://github.com/owais/django-webpack-loader
+<br/>
 https://github.com/naomigrace/django-react-webpack
+<br/>
 https://github.com/mbrochh/django-reactjs-boilerplate
