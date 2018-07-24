@@ -10,6 +10,7 @@ Much better install node.js version 5.11.1
 
 Django 1.11
 ReactJS version 16.4.1
+react-hot-loader is working.
 ```
 ### Installing
 Make sure you already installed virtual environment for django in your computer.
