@@ -5,6 +5,9 @@ Django as backend and ReactJS as front end.
 Check the `package.json` file to check some versions of dependencies. 
 We are using
 ```
+Please use an npm version that is >= 3.0.0 and < 5.0.0
+Much better install node.js version 5.11.1
+
 Django 1.11
 ReactJS version 16.4.1
 ```
