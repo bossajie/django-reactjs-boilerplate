@@ -26,6 +26,8 @@ python manage.py runserver
 
 # open another terminal
 node server.js
+
+open to your browser: 127.0.0.1:8000/
 ```
 
 Read more on this blog post:
