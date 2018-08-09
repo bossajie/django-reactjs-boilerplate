@@ -30,7 +30,7 @@ module.exports = {
     loaders: [
       // we pass the output from babel loader to react-hot loader
       { test: /\.jsx?$/, exclude: /node_modules/, 
-        loaders: ['react-hot-loader/webpack', 'babel?' + JSON.stringify({presets: ['react', 'es2015', 'stage-0']})]
+        loaders: ['react-hot-loader/webpack', 'babel?' + JSON.stringify({presets: ['react', 'es2015']})]
     
     },
     ],
